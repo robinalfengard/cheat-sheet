@@ -1,0 +1,55 @@
+h1 {
+color:rgb(124, 98, 133);
+font-family: monospace;
+opacity: 0.5;
+text-align: center;
+}
+body {
+    background-color: rgb(212, 178, 198);
+
+}
+p {
+    color:rgb(124, 98, 133);
+    font-family: monospace;
+    opacity: 0.5;
+    text-align: center; 
+    margin-right: 200px;
+    margin-left: 200px; 
+    font-weight: bold;
+    
+}
+
+table th, td {
+border: 3px solid rgb(0, 0, 0); 
+text-align: left;
+width: 500px;
+font-family: monospace;
+background-color: rgb(173, 209, 209);
+opacity: 0.5;
+color:rgb(124, 98, 133);
+
+}
+
+.table1 {
+  margin-left: auto;
+  margin-right: auto;
+margin-bottom: 25px;
+color:rgb(49, 44, 45) ;
+}
+.table2 {
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom:25px;
+}
+.table3 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:25px;
+}
+.table4 {
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro {
+    text-align: center;
+}
